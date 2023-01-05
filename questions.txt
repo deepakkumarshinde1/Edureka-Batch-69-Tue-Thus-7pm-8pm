@@ -36,9 +36,130 @@
 # What will happened if I add 2 undefined ?
     => undefined + undefined =>
 
+(pending)
 # "India is my country and i love country i.e india"
 India => 2
 is => 1
 country => 2
 
 // split , forEach , include
+
+# which are operators use in javascript
+    => Arithmetic operators
+    => Condition or Comparison operators
+    => logical operators
+    => Assignment operators
+
+# What is function ? 
+    =>  function is a block of code to perform same operation again & again
+    => created by using function key words
+
+# Which different function in javascript ?
+    => common function
+    => callback function
+    => arrow function 
+    => anonymous or expression function
+    => IIFE = Immediate Invoke Function Expression
+
+# What is a actual parameter and formal parameter in JS ?
+    => actual parameter are use in function call .i.e funName(1,2,a);
+    => formal parameter are use in function definition  .i.e functin funName(){ };
+
+(pending)
+# What is local & global variable ?
+
+(pending)
+# What is local & block variable in js ?
+
+# What is different between let and var keyword ? 
+    => with let variable can initialize once.
+    => let is block scope
+    => with var variable can initialize again and again.
+    => var key words will have a scope for give function or object
+
+# What is a DOM ? 
+    => is Document Object Model
+
+# What is use of DOM ? 
+    => to dynamically update content of element (manipulation)
+
+# Which object we use to perform a dom operation ?
+    => document
+
+# What is a BOM ?
+    => Browser Object Model
+    => Handel by window object
+    
+# What is a different between DOM & BOM ?
+    => BOM use window object
+    => window object we can handel javascript API
+    => window we have api like 
+        => location, 
+        => history, 
+        => storage, 
+        => cookies, 
+        => document
+    => DOM use document object
+    => document object we can handel html elements
+    => document we can 
+        => add event to element, 
+        => change a style of element,
+        => manage classes of element,
+        => handel many mor props of elements
+
+# what is an Array i.e [] ? 
+    => Array can store multiple values in one variable.
+    => value are store with index.
+    => index auto-gen
+    => index always start 0
+
+(pending)
+# what is an JSObject i.e {} ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
