@@ -1,0 +1,44 @@
+# What is a javascript ? 
+    => Javascript is a scripting programming language
+    => With javascript we can create user interactive UI
+        => 
+            Click animation , 
+            getting a pop up in click, 
+            getting suggestion  on type
+            going with some maths operation
+    => With javascript we can create applications like 
+        => Browser application 
+        => Mobile Application
+        => Server Application 
+        => Desktop Application
+    => JS code executes with interpreter 
+    => JS Engine to run that code (like V8 in chrome & node JS)
+
+# What a ES in javascript?
+    => ECMA Script
+    => European Computer Manufacture Association
+
+# Which are different data types in javascript ?
+    => string , boolean, number , object, undefined 
+    => object => array [], jsObject {}, null 
+
+# Which are primitive data types in JS?
+    => string, number, boolean, undefined
+    => variables stores a data => by value
+
+# Which are non-primitive data types in JS?
+    => array, JSObject
+    => variables stores a data => by references
+
+# What is a keyword use to check data type ?
+    => typeof
+
+# What will happened if I add 2 undefined ?
+    => undefined + undefined =>
+
+# "India is my country and i love country i.e india"
+India => 2
+is => 1
+country => 2
+
+// split , forEach , include
