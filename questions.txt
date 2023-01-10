@@ -116,7 +116,44 @@ country => 2
 (pending)
 # what is an JSObject i.e {} ? 
 
+# Which Type We use to create react app?
+    => Javascript
+    => Typescript
 
+# Which of react you are going with ?
+    => 18V
+
+# npm i create-react-app
+# node package executor
+    npx create-react-app project-name
+
+# What is babel ?
+    React is created ES6 Pattern
+    ES6 Code To ES5
+    CSS (SASS),JS
+
+# What is webpack ?
+    Webpack
+
+    public
+        .css
+        .js
+
+    build (production)
+        images
+        .txt
+        .json
+        .html
+        .js
+        .css    
+    npm run built
+        production 
+
+    npm start 
+        development server 
+
+# What is react-script, react, react-dom ?
+# What is react Native
 
 
 
